@@ -39,7 +39,7 @@ My goal is to develop technology that is accessible and helps people make better
 | **Autonomous Drone Vision Systems** | **AI-Assisted Detection of Community Relevant Map Features** | **Customer Experience Analytics** |
 | Navigation, PID control, Computer Vision and AprilTags for autonomous drones. | Computer vision pipeline for satellite imagery and seismic risk assessment. | Machine Learning and Operations Research for Net Promoter Score (NPS). |
 | **Tech:** Python · OpenCV · PID · AprilTags | **Tech:** Python · YOLO · QGIS · Rasterio | **Tech:** Python · GAMS · Scikit-Learn · Tableau |
-| 🚧 Repository coming soon | 🚧 Repository coming soon | 🚧 Repository coming soon |
+| 🚧 Under Development | 🚧 Repository coming soon | 🚧 Repository coming soon |
 
 ---
 ## 🛠 Engineering Toolkit
