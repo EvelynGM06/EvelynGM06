@@ -17,7 +17,6 @@
 </a>
 
 </p>
----
 
 ## 👋 About Me
 
@@ -35,16 +34,22 @@ My goal is to develop technology that is accessible and helps people make better
 
 ## 🚀 Featured Projects
 
-### 🛰️ AI-Assisted Detection of Community Relevant Map Features
-Computer vision pipeline for satellite imagery and seismic risk assessment.
-
-### 🤖 Autonomous Robotics
-Navigation, PID control, computer vision and AprilTags for autonomous drone competitions.
-
-### 📊 Customer Experience Analytics
-Machine Learning and Operations Research applied to Net Promoter Score (NPS).
+| 🤖 Autonomous Robotics | 🗺️ Geospatial AI | 📊 Data Analytics |
+|:----------------------|:----------------|:-----------------|
+| **Autonomous Drone Vision Systems** | **AI-Assisted Detection of Community Relevant Map Features** | **Customer Experience Analytics** |
+| Navigation, PID control, Computer Vision and AprilTags for autonomous drones. | Computer vision pipeline for satellite imagery and seismic risk assessment. | Machine Learning and Operations Research for Net Promoter Score (NPS). |
+| **Tech:** Python · OpenCV · PID · AprilTags | **Tech:** Python · YOLO · QGIS · Rasterio | **Tech:** Python · GAMS · Scikit-Learn · Tableau |
+| 🚧 Repository coming soon | 🚧 Repository coming soon | 🚧 Repository coming soon |
 
 ---
+## 🛠 Engineering Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## 🛠 Tech Stack
 
