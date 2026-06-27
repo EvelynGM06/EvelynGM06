@@ -18,7 +18,7 @@
 
 </p>
 
-## 👋 About Me
+## About Me
 
 I'm Evelyn Gamboa Mata, a Data Science and Mathematics Engineering student at Tecnológico de Monterrey.
 
@@ -32,7 +32,7 @@ My goal is to develop technology that is accessible and helps people make better
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | 🤖 Autonomous Robotics | 🗺️ Geospatial AI | 📊 Data Analytics |
 |:----------------------|:----------------|:-----------------|
@@ -50,10 +50,6 @@ My goal is to develop technology that is accessible and helps people make better
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-## 🛠 Tech Stack
-
-Python • SQL • Git • Machine Learning • Computer Vision • YOLO • QGIS • Tableau • Linux
 
 ---
 
