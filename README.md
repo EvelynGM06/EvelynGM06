@@ -2,6 +2,21 @@
   <img src="assets/Banner.png" width="100%">
 </p>
 
+<p align="center">
+
+<a href="https://linkedin.com/in/evelyn-gamboa-mata06">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://public.tableau.com/app/profile/evelyn.gamboa">
+<img src="https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau">
+</a>
+
+<a href="mailto:evelyngm06@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
 ---
 
 ## 👋 About Me
